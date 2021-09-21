@@ -1,6 +1,6 @@
 class Fetch {
     async getCurrent(input) {
-      const myKey = "8a7e5b656cc7d438b6f5351762076e99";
+      const myKey = "get your own key";
 
       //make request to url  
       const response = await fetch(
